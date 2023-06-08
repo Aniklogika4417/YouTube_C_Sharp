@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTube_C_Sharp", "YouTube_C_Sharp\YouTube_C_Sharp.csproj", "{63A5AFAB-C845-44F3-AE26-731DBA2F0FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuProject", "MuProject\MuProject.csproj", "{1174DD46-54C0-4FC0-8331-6839FE81DBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A5AFAB-C845-44F3-AE26-731DBA2F0FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A5AFAB-C845-44F3-AE26-731DBA2F0FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A5AFAB-C845-44F3-AE26-731DBA2F0FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A5AFAB-C845-44F3-AE26-731DBA2F0FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1174DD46-54C0-4FC0-8331-6839FE81DBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1174DD46-54C0-4FC0-8331-6839FE81DBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1174DD46-54C0-4FC0-8331-6839FE81DBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1174DD46-54C0-4FC0-8331-6839FE81DBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8676B2B4-B199-4C6E-BE2E-2BCFC50739A9}
+	EndGlobalSection
+EndGlobal
